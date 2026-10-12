@@ -1,0 +1,41 @@
+[
+  {
+    "number": 1,
+    "title": "Folge 1: In der Bar, in der Natur und auf dem Markt",
+    "description": "Drei Geschichten aus den Lern-Mails: ein Freitagabend mit Tapas in der Bar, ein Sonntag im Naturpark und ein Samstagmorgen auf dem Markt. Grammatik: Fragewörter, Demonstrativpronomen (este, ese, aquel) und stammwechselnde Verben.",
+    "date": "2026-10-12",
+    "file": "episodes/folge-001.mp3",
+    "bytes": 11234305,
+    "duration": 1404,
+    "chapters": [
+      [
+        0,
+        "Einführung"
+      ],
+      [
+        38,
+        "Aufwärmen"
+      ],
+      [
+        109,
+        "Geschichte 1: Tres cañas y muchas tapas"
+      ],
+      [
+        487,
+        "Geschichte 2: Un domingo en la naturaleza"
+      ],
+      [
+        856,
+        "Geschichte 3: Sábado en el mercado"
+      ],
+      [
+        1265,
+        "Quiz"
+      ],
+      [
+        1391,
+        "Abschluss"
+      ]
+    ]
+  }
+]
