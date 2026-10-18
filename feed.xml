@@ -6,7 +6,7 @@
     <atom:link href="https://felixbauer988-beep.github.io/spanisch-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Spanisch hören im Auto, Niveau A1: In jeder Folge drei kurze Alltagsgeschichten, langsam gesprochen, Satz für Satz mit deutscher Übersetzung, dazu die wichtigsten neuen Wörter, ein Grammatik-Tipp und ein kleines Vokabelquiz.</description>
     <language>de</language>
-    <lastBuildDate>Mon, 12 Oct 2026 14:59:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 17:00:04 +0000</lastBuildDate>
     <itunes:author>Español A1 en el coche</itunes:author>
     <itunes:summary>Spanisch hören im Auto, Niveau A1: In jeder Folge drei kurze Alltagsgeschichten, langsam gesprochen, Satz für Satz mit deutscher Übersetzung, dazu die wichtigsten neuen Wörter, ein Grammatik-Tipp und ein kleines Vokabelquiz.</itunes:summary>
     <itunes:owner>
@@ -20,6 +20,66 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Folge 3: Verabredungen, Post und Bank und der beste Freund</title>
+      <description>Drei Geschichten aus den Lern-Mails: eine Chatgruppe sucht einen Plan fürs Wochenende, Erledigungen auf der Post und in der Bank und ein Porträt des besten Freundes. Grammatik: Verneinung (nada, nadie, nunca, tampoco, ni … ni), por und para sowie Relativsätze mit que und donde.
+
+Kapitel:
+00:00 Einführung
+00:40 Aufwärmen
+01:45 Geschichte 1: Quedar con amigos
+08:19 Geschichte 2: En Correos y en el banco
+14:57 Geschichte 3: Mi mejor amigo
+21:21 Quiz
+23:27 Abschluss</description>
+      <itunes:summary>Drei Geschichten aus den Lern-Mails: eine Chatgruppe sucht einen Plan fürs Wochenende, Erledigungen auf der Post und in der Bank und ein Porträt des besten Freundes. Grammatik: Verneinung (nada, nadie, nunca, tampoco, ni … ni), por und para sowie Relativsätze mit que und donde.
+
+Kapitel:
+00:00 Einführung
+00:40 Aufwärmen
+01:45 Geschichte 1: Quedar con amigos
+08:19 Geschichte 2: En Correos y en el banco
+14:57 Geschichte 3: Mi mejor amigo
+21:21 Quiz
+23:27 Abschluss</itunes:summary>
+      <pubDate>Sun, 18 Oct 2026 18:03:00 +0100</pubDate>
+      <enclosure url="https://felixbauer988-beep.github.io/spanisch-podcast/episodes/folge-003.mp3" length="11363253" type="audio/mpeg"/>
+      <guid isPermaLink="false">spanisch-podcast-folge-003</guid>
+      <itunes:duration>00:23:40</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Folge 2: Feste, Technik und Sprachen lernen</title>
+      <description>Drei Geschichten aus den Lern-Mails: die großen Volksfeste Spaniens, ein Tag mit Handy und Laptop und Abende in der Sprachschule. Grammatik: muy und mucho mit Komparativ, direkte Objektpronomen (lo, la, los, las) und indirekte Objektpronomen (me, te, le, nos, les).
+
+Kapitel:
+00:00 Einführung
+00:39 Aufwärmen
+01:43 Geschichte 1: Las fiestas de España
+08:15 Geschichte 2: El móvil y el ordenador
+14:51 Geschichte 3: Aprender idiomas
+21:33 Quiz
+23:41 Abschluss</description>
+      <itunes:summary>Drei Geschichten aus den Lern-Mails: die großen Volksfeste Spaniens, ein Tag mit Handy und Laptop und Abende in der Sprachschule. Grammatik: muy und mucho mit Komparativ, direkte Objektpronomen (lo, la, los, las) und indirekte Objektpronomen (me, te, le, nos, les).
+
+Kapitel:
+00:00 Einführung
+00:39 Aufwärmen
+01:43 Geschichte 1: Las fiestas de España
+08:15 Geschichte 2: El móvil y el ordenador
+14:51 Geschichte 3: Aprender idiomas
+21:33 Quiz
+23:41 Abschluss</itunes:summary>
+      <pubDate>Sun, 18 Oct 2026 18:02:00 +0100</pubDate>
+      <enclosure url="https://felixbauer988-beep.github.io/spanisch-podcast/episodes/folge-002.mp3" length="11476296" type="audio/mpeg"/>
+      <guid isPermaLink="false">spanisch-podcast-folge-002</guid>
+      <itunes:duration>00:23:54</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Folge 1: In der Bar, in der Natur und auf dem Markt</title>
       <description>Drei Geschichten aus den Lern-Mails: ein Freitagabend mit Tapas in der Bar, ein Sonntag im Naturpark und ein Samstagmorgen auf dem Markt. Grammatik: Fragewörter, Demonstrativpronomen (este, ese, aquel) und stammwechselnde Verben.

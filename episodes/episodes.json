@@ -37,5 +37,83 @@
         "Abschluss"
       ]
     ]
+  },
+  {
+    "number": 2,
+    "title": "Folge 2: Feste, Technik und Sprachen lernen",
+    "description": "Drei Geschichten aus den Lern-Mails: die großen Volksfeste Spaniens, ein Tag mit Handy und Laptop und Abende in der Sprachschule. Grammatik: muy und mucho mit Komparativ, direkte Objektpronomen (lo, la, los, las) und indirekte Objektpronomen (me, te, le, nos, les).",
+    "date": "2026-10-18",
+    "file": "episodes/folge-002.mp3",
+    "bytes": 11476296,
+    "duration": 1434,
+    "chapters": [
+      [
+        0,
+        "Einführung"
+      ],
+      [
+        39,
+        "Aufwärmen"
+      ],
+      [
+        103,
+        "Geschichte 1: Las fiestas de España"
+      ],
+      [
+        495,
+        "Geschichte 2: El móvil y el ordenador"
+      ],
+      [
+        891,
+        "Geschichte 3: Aprender idiomas"
+      ],
+      [
+        1293,
+        "Quiz"
+      ],
+      [
+        1421,
+        "Abschluss"
+      ]
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Folge 3: Verabredungen, Post und Bank und der beste Freund",
+    "description": "Drei Geschichten aus den Lern-Mails: eine Chatgruppe sucht einen Plan fürs Wochenende, Erledigungen auf der Post und in der Bank und ein Porträt des besten Freundes. Grammatik: Verneinung (nada, nadie, nunca, tampoco, ni … ni), por und para sowie Relativsätze mit que und donde.",
+    "date": "2026-10-18",
+    "file": "episodes/folge-003.mp3",
+    "bytes": 11363253,
+    "duration": 1420,
+    "chapters": [
+      [
+        0,
+        "Einführung"
+      ],
+      [
+        40,
+        "Aufwärmen"
+      ],
+      [
+        105,
+        "Geschichte 1: Quedar con amigos"
+      ],
+      [
+        499,
+        "Geschichte 2: En Correos y en el banco"
+      ],
+      [
+        897,
+        "Geschichte 3: Mi mejor amigo"
+      ],
+      [
+        1281,
+        "Quiz"
+      ],
+      [
+        1407,
+        "Abschluss"
+      ]
+    ]
   }
 ]
