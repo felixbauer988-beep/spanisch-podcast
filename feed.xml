@@ -6,7 +6,7 @@
     <atom:link href="https://felixbauer988-beep.github.io/spanisch-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Spanisch hören im Auto, Niveau A1: In jeder Folge drei kurze Alltagsgeschichten, langsam gesprochen, Satz für Satz mit deutscher Übersetzung, dazu die wichtigsten neuen Wörter, ein Grammatik-Tipp und ein kleines Vokabelquiz.</description>
     <language>de</language>
-    <lastBuildDate>Sun, 18 Oct 2026 17:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 17:57:23 +0000</lastBuildDate>
     <itunes:author>Español A1 en el coche</itunes:author>
     <itunes:summary>Spanisch hören im Auto, Niveau A1: In jeder Folge drei kurze Alltagsgeschichten, langsam gesprochen, Satz für Satz mit deutscher Übersetzung, dazu die wichtigsten neuen Wörter, ein Grammatik-Tipp und ein kleines Vokabelquiz.</itunes:summary>
     <itunes:owner>
@@ -20,6 +20,66 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Folge 5: Ein Abend zu Hause, ein Vorstellungsgespräch und der Supermarkt</title>
+      <description>Drei Geschichten aus den Lern-Mails: eine Familie am frühen Abend, ein Vorstellungsgespräch in einer Buchhandlung und der große Wocheneinkauf im Supermarkt. Grammatik: estar + Gerundium, die Zeitwörter desde, hasta, durante und hace sowie Mengenangaben mit de und Zahlen über hundert.
+
+Kapitel:
+00:00 Einführung
+00:39 Aufwärmen
+01:44 Geschichte 1: ¿Qué estás haciendo?
+07:30 Geschichte 2: Una entrevista de trabajo
+14:01 Geschichte 3: En el supermercado
+20:20 Quiz
+22:30 Abschluss</description>
+      <itunes:summary>Drei Geschichten aus den Lern-Mails: eine Familie am frühen Abend, ein Vorstellungsgespräch in einer Buchhandlung und der große Wocheneinkauf im Supermarkt. Grammatik: estar + Gerundium, die Zeitwörter desde, hasta, durante und hace sowie Mengenangaben mit de und Zahlen über hundert.
+
+Kapitel:
+00:00 Einführung
+00:39 Aufwärmen
+01:44 Geschichte 1: ¿Qué estás haciendo?
+07:30 Geschichte 2: Una entrevista de trabajo
+14:01 Geschichte 3: En el supermercado
+20:20 Quiz
+22:30 Abschluss</itunes:summary>
+      <pubDate>Sun, 25 Oct 2026 18:05:00 +0100</pubDate>
+      <enclosure url="https://felixbauer988-beep.github.io/spanisch-podcast/episodes/folge-005.mp3" length="10904140" type="audio/mpeg"/>
+      <guid isPermaLink="false">spanisch-podcast-folge-005</guid>
+      <itunes:duration>00:22:43</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Folge 4: Im Hotel, am Bahnhof und im Kino</title>
+      <description>Drei Geschichten aus den Lern-Mails: ein Hotelzimmer in Sevilla am Telefon reservieren, Fahrkarten am Bahnhof kaufen und ein Abend im Kino. Grammatik: bejahender Imperativ (tú und usted), saber und conocer sowie encantar, interesar und aburrir.
+
+Kapitel:
+00:00 Einführung
+00:38 Aufwärmen
+01:41 Geschichte 1: Una habitación en Sevilla
+08:16 Geschichte 2: En la estación de tren
+14:40 Geschichte 3: Una noche en el cine
+20:56 Quiz
+23:06 Abschluss</description>
+      <itunes:summary>Drei Geschichten aus den Lern-Mails: ein Hotelzimmer in Sevilla am Telefon reservieren, Fahrkarten am Bahnhof kaufen und ein Abend im Kino. Grammatik: bejahender Imperativ (tú und usted), saber und conocer sowie encantar, interesar und aburrir.
+
+Kapitel:
+00:00 Einführung
+00:38 Aufwärmen
+01:41 Geschichte 1: Una habitación en Sevilla
+08:16 Geschichte 2: En la estación de tren
+14:40 Geschichte 3: Una noche en el cine
+20:56 Quiz
+23:06 Abschluss</itunes:summary>
+      <pubDate>Sun, 25 Oct 2026 18:04:00 +0100</pubDate>
+      <enclosure url="https://felixbauer988-beep.github.io/spanisch-podcast/episodes/folge-004.mp3" length="11187484" type="audio/mpeg"/>
+      <guid isPermaLink="false">spanisch-podcast-folge-004</guid>
+      <itunes:duration>00:23:18</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Folge 3: Verabredungen, Post und Bank und der beste Freund</title>
       <description>Drei Geschichten aus den Lern-Mails: eine Chatgruppe sucht einen Plan fürs Wochenende, Erledigungen auf der Post und in der Bank und ein Porträt des besten Freundes. Grammatik: Verneinung (nada, nadie, nunca, tampoco, ni … ni), por und para sowie Relativsätze mit que und donde.

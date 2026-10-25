@@ -115,5 +115,83 @@
         "Abschluss"
       ]
     ]
+  },
+  {
+    "number": 4,
+    "title": "Folge 4: Im Hotel, am Bahnhof und im Kino",
+    "description": "Drei Geschichten aus den Lern-Mails: ein Hotelzimmer in Sevilla am Telefon reservieren, Fahrkarten am Bahnhof kaufen und ein Abend im Kino. Grammatik: bejahender Imperativ (tú und usted), saber und conocer sowie encantar, interesar und aburrir.",
+    "date": "2026-10-25",
+    "file": "episodes/folge-004.mp3",
+    "bytes": 11187484,
+    "duration": 1398,
+    "chapters": [
+      [
+        0,
+        "Einführung"
+      ],
+      [
+        38,
+        "Aufwärmen"
+      ],
+      [
+        101,
+        "Geschichte 1: Una habitación en Sevilla"
+      ],
+      [
+        496,
+        "Geschichte 2: En la estación de tren"
+      ],
+      [
+        880,
+        "Geschichte 3: Una noche en el cine"
+      ],
+      [
+        1256,
+        "Quiz"
+      ],
+      [
+        1386,
+        "Abschluss"
+      ]
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Folge 5: Ein Abend zu Hause, ein Vorstellungsgespräch und der Supermarkt",
+    "description": "Drei Geschichten aus den Lern-Mails: eine Familie am frühen Abend, ein Vorstellungsgespräch in einer Buchhandlung und der große Wocheneinkauf im Supermarkt. Grammatik: estar + Gerundium, die Zeitwörter desde, hasta, durante und hace sowie Mengenangaben mit de und Zahlen über hundert.",
+    "date": "2026-10-25",
+    "file": "episodes/folge-005.mp3",
+    "bytes": 10904140,
+    "duration": 1363,
+    "chapters": [
+      [
+        0,
+        "Einführung"
+      ],
+      [
+        39,
+        "Aufwärmen"
+      ],
+      [
+        104,
+        "Geschichte 1: ¿Qué estás haciendo?"
+      ],
+      [
+        450,
+        "Geschichte 2: Una entrevista de trabajo"
+      ],
+      [
+        841,
+        "Geschichte 3: En el supermercado"
+      ],
+      [
+        1220,
+        "Quiz"
+      ],
+      [
+        1350,
+        "Abschluss"
+      ]
+    ]
   }
 ]

@@ -1,0 +1,162 @@
+{
+  "number": 4,
+  "title": "Folge 4: Im Hotel, am Bahnhof und im Kino",
+  "description": "Drei Geschichten aus den Lern-Mails: ein Hotelzimmer in Sevilla am Telefon reservieren, Fahrkarten am Bahnhof kaufen und ein Abend im Kino. Grammatik: bejahender Imperativ (tú und usted), saber und conocer sowie encantar, interesar und aburrir.",
+  "date": "2026-10-25",
+  "intro": [
+    "Hallo Felix und willkommen zu Español A1 en el coche, deinem Spanisch-Podcast für unterwegs. Das ist Folge vier.",
+    "Heute hörst du drei kleine, abgeschlossene Geschichten aus deinen Lern-Mails: einen Anruf in einem Hotel in Sevilla, einen Besuch am Fahrkartenschalter und einen Abend im Kino.",
+    "Jede Geschichte läuft nach dem gleichen Muster. Zuerst hörst du sie einmal komplett auf Spanisch, langsam und mit Pausen. Dann folgt sie Satz für Satz, direkt mit deutscher Übersetzung. Danach kommen die wichtigsten neuen Wörter, und zum Schluss ein kleiner Grammatik-Tipp.",
+    "Du musst nichts mitschreiben. Hör einfach zu und sprich laut mit, wenn du magst. Und jetzt: gute Fahrt!"
+  ],
+  "warmup": [
+    ["el desfile", "der Umzug"],
+    ["disfrutar", "genießen"],
+    ["el vuelo", "der Flug"],
+    ["el equipaje", "das Gepäck"],
+    ["recomendar", "empfehlen"],
+    ["probar", "probieren"]
+  ],
+  "stories": [
+    {
+      "title_es": "Una habitación en Sevilla",
+      "title_de": "Ein Zimmer in Sevilla",
+      "setting": "Jemand ruft in einem kleinen Hotel in Sevilla an und reserviert ein Zimmer für das Wochenende.",
+      "blocks": [
+        ["Este fin de semana viajo a Sevilla con mi hermana. Todavía no tenemos hotel. Por eso llamo a un hotel pequeño del centro.",
+         "Dieses Wochenende reise ich mit meiner Schwester nach Sevilla. Wir haben noch kein Hotel. Deshalb rufe ich in einem kleinen Hotel im Zentrum an."],
+        ["La recepcionista es muy simpática. Buenos días, dígame, dice. Quiero una habitación doble para dos noches, contesto.",
+         "Die Rezeptionistin ist sehr nett. Guten Tag, sagen Sie, sagt sie. Ich möchte ein Doppelzimmer für zwei Nächte, antworte ich."],
+        ["Espere un momento, por favor. Tenemos una habitación con vistas al patio. Cuesta noventa euros por noche, con desayuno incluido.",
+         "Warten Sie bitte einen Moment. Wir haben ein Zimmer mit Blick auf den Innenhof. Es kostet neunzig Euro pro Nacht, Frühstück inklusive."],
+        ["Mi hermana me dice: pregunta si hay aire acondicionado. Sí, todas las habitaciones tienen aire acondicionado. Venga antes de las seis y pregunte por Marta. Ella le da la llave enseguida.",
+         "Meine Schwester sagt zu mir: Frag, ob es eine Klimaanlage gibt. Ja, alle Zimmer haben eine Klimaanlage. Kommen Sie vor sechs Uhr und fragen Sie nach Marta. Sie gibt Ihnen sofort den Schlüssel."],
+        ["Después de colgar, escribo a un amigo que vive en Sevilla. Él contesta: visita el barrio de Santa Cruz y come tapas. Ve a la catedral por la mañana y sal temprano.",
+         "Nachdem ich aufgelegt habe, schreibe ich einem Freund, der in Sevilla wohnt. Er antwortet: Besuch das Viertel Santa Cruz und iss Tapas. Geh morgens zur Kathedrale und geh früh los."],
+        ["Estoy muy contento con la reserva. Le digo a mi hermana: haz tú la maleta, yo compro los billetes. Ella se ríe: pon también el paraguas.",
+         "Ich bin sehr zufrieden mit der Reservierung. Ich sage zu meiner Schwester: Pack du den Koffer, ich kaufe die Fahrkarten. Sie lacht: Pack auch den Regenschirm ein."]
+      ],
+      "vocab": [
+        ["la reserva", "die Reservierung"],
+        ["la recepcionista", "die Rezeptionistin"],
+        ["la habitación doble", "das Doppelzimmer"],
+        ["las vistas", "die Aussicht"],
+        ["incluido", "inklusive"],
+        ["el aire acondicionado", "die Klimaanlage"],
+        ["la llave", "der Schlüssel"],
+        ["enseguida", "sofort"]
+      ],
+      "tip": [
+        ["de", "Kleiner Grammatik-Tipp: Der Imperativ mit du sieht aus wie die er-Form im Präsens. Iss Tapas:"],
+        ["es", "Come tapas."],
+        ["de", "Ein paar wichtige Verben sind kurz und unregelmäßig. Mach den Koffer, geh zur Kathedrale:"],
+        ["es", "Haz la maleta. Ve a la catedral."],
+        ["de", "Mit Sie tauschst du den Vokal: aus a wird e. Warten Sie einen Moment:"],
+        ["es", "Espere un momento."],
+        ["de", "Und kommen Sie vor sechs:"],
+        ["es", "Venga antes de las seis."]
+      ]
+    },
+    {
+      "title_es": "En la estación de tren",
+      "title_de": "Am Bahnhof",
+      "setting": "Am Fahrkartenschalter werden die Zugtickets nach Sevilla gekauft, danach gibt es einen Kaffee im Bahnhofscafé.",
+      "blocks": [
+        ["El sábado salgo hacia Sevilla. Hoy voy a la estación para comprar los billetes. Conozco bien la estación, pero no sé cómo funcionan las máquinas nuevas.",
+         "Am Samstag fahre ich nach Sevilla. Heute gehe ich zum Bahnhof, um die Fahrkarten zu kaufen. Ich kenne den Bahnhof gut, aber ich weiß nicht, wie die neuen Automaten funktionieren."],
+        ["Por eso voy a la taquilla. Quiero dos billetes de ida y vuelta a Sevilla, por favor. ¿Sabe usted a qué hora sale el primer tren?",
+         "Deshalb gehe ich zum Schalter. Ich möchte bitte zwei Fahrkarten hin und zurück nach Sevilla. Wissen Sie, um wie viel Uhr der erste Zug abfährt?"],
+        ["Sí, hay un tren de alta velocidad a las ocho y diez. Cuesta ochenta euros, ida y vuelta. Pago con tarjeta, y la empleada dice: el tren sale de la vía tres.",
+         "Ja, es gibt einen Hochgeschwindigkeitszug um zehn nach acht. Er kostet achtzig Euro, hin und zurück. Ich zahle mit Karte, und die Angestellte sagt: Der Zug fährt von Gleis drei ab."],
+        ["Después tomo un café en el bar de la estación. Un señor mayor se sienta a mi lado y me pregunta: ¿Conoces Sevilla? No, no conozco la ciudad, contesto.",
+         "Danach trinke ich einen Kaffee im Bahnhofscafé. Ein älterer Herr setzt sich neben mich und fragt mich: Kennst du Sevilla? Nein, ich kenne die Stadt nicht, antworte ich."],
+        ["Yo conozco a un camarero muy bueno en Triana, dice él. Sabe preparar las mejores tapas. Me despido del señor y salgo de la estación.",
+         "Ich kenne einen sehr guten Kellner in Triana, sagt er. Er kann die besten Tapas zubereiten. Ich verabschiede mich von dem Herrn und verlasse den Bahnhof."],
+        ["En el metro miro los billetes: vagón cinco, asiento doce, junto a la ventanilla. Todavía no conozco Sevilla, pero sé que me va a gustar.",
+         "In der U-Bahn sehe ich mir die Fahrkarten an: Wagen fünf, Platz zwölf, am Fenster. Ich kenne Sevilla noch nicht, aber ich weiß, dass es mir gefallen wird."]
+      ],
+      "vocab": [
+        ["la taquilla", "der Fahrkartenschalter"],
+        ["el billete", "die Fahrkarte"],
+        ["de ida y vuelta", "hin und zurück"],
+        ["el tren de alta velocidad", "der Hochgeschwindigkeitszug"],
+        ["la vía", "das Gleis"],
+        ["el vagón", "der Wagen"],
+        ["el asiento", "der Sitzplatz"],
+        ["despedirse", "sich verabschieden"]
+      ],
+      "tip": [
+        ["de", "Kleiner Grammatik-Tipp: saber heißt wissen oder können. Ich weiß, dass der Zug abfährt:"],
+        ["es", "Sé que el tren sale."],
+        ["de", "Er kann kochen:"],
+        ["es", "Sabe cocinar."],
+        ["de", "conocer heißt kennen, für Orte und Personen. Ich kenne Madrid:"],
+        ["es", "Conozco Madrid."],
+        ["de", "Vor Personen steht ein kleines a. Ich kenne Marta:"],
+        ["es", "Conozco a Marta."]
+      ]
+    },
+    {
+      "title_es": "Una noche en el cine",
+      "title_de": "Ein Abend im Kino",
+      "setting": "Zwei Freunde sehen sich einen Science-Fiction-Film an und sprechen danach darüber.",
+      "blocks": [
+        ["El viernes mi amiga Lucía me llama. ¿Quieres ir al cine esta noche? Hay una película nueva de ciencia ficción.",
+         "Am Freitag ruft mich meine Freundin Lucía an. Möchtest du heute Abend ins Kino gehen? Es gibt einen neuen Science-Fiction-Film."],
+        ["A mí me encanta la ciencia ficción. A Lucía le interesan más los documentales. Quedamos a las siete delante del cine.",
+         "Ich liebe Science-Fiction. Lucía interessiert sich mehr für Dokumentarfilme. Wir verabreden uns um sieben vor dem Kino."],
+        ["Llego temprano y miro la cartelera. Hay una comedia, un drama y la película de ciencia ficción. Compro dos entradas por doce euros cada una.",
+         "Ich komme früh an und schaue mir das Kinoprogramm an. Es gibt eine Komödie, ein Drama und den Science-Fiction-Film. Ich kaufe zwei Eintrittskarten für je zwölf Euro."],
+        ["Lucía llega con palomitas. Nos sentamos en la fila ocho, en el centro. A mí me aburren las películas largas, pero esta película no me ha aburrido ni un minuto.",
+         "Lucía kommt mit Popcorn. Wir setzen uns in die achte Reihe, in die Mitte. Mich langweilen lange Filme, aber dieser Film hat mich keine Minute gelangweilt."],
+        ["Veo naves, planetas y robots. A Lucía le interesa la historia, y a mí me encantan los efectos especiales. Al final todos aplauden.",
+         "Ich sehe Raumschiffe, Planeten und Roboter. Lucía interessiert die Geschichte, und ich liebe die Spezialeffekte. Am Ende applaudieren alle."],
+        ["Después tomamos algo en una cafetería. A mí me interesa mucho la banda sonora. Esta noche voy a buscarla en el móvil.",
+         "Danach trinken wir etwas in einem Café. Mich interessiert der Soundtrack sehr. Heute Abend werde ich ihn auf dem Handy suchen."]
+      ],
+      "vocab": [
+        ["la cartelera", "das Kinoprogramm"],
+        ["el documental", "der Dokumentarfilm"],
+        ["la comedia", "die Komödie"],
+        ["las palomitas", "das Popcorn"],
+        ["la fila", "die Reihe"],
+        ["los efectos especiales", "die Spezialeffekte"],
+        ["aplaudir", "applaudieren"],
+        ["la banda sonora", "der Soundtrack"]
+      ],
+      "tip": [
+        ["de", "Kleiner Grammatik-Tipp: encantar, interesar und aburrir funktionieren wie gustar. Das Verb richtet sich nach der Sache. Ich liebe das Kino:"],
+        ["es", "Me encanta el cine."],
+        ["de", "Mehrere Dinge, also Plural. Ich liebe die Spezialeffekte:"],
+        ["es", "Me encantan los efectos especiales."],
+        ["de", "Das kleine le darf nie fehlen. Lucía interessiert die Geschichte:"],
+        ["es", "A Lucía le interesa la historia."],
+        ["de", "Und: Lange Filme langweilen mich:"],
+        ["es", "Me aburren las películas largas."]
+      ]
+    }
+  ],
+  "quiz": [
+    ["die Reservierung", "la reserva"],
+    ["der Fahrkartenschalter", "la taquilla"],
+    ["das Kinoprogramm", "la cartelera"],
+    ["der Schlüssel", "la llave"],
+    ["hin und zurück", "de ida y vuelta"],
+    ["das Popcorn", "las palomitas"],
+    ["die Aussicht", "las vistas"],
+    ["das Gleis", "la vía"],
+    ["der Soundtrack", "la banda sonora"],
+    ["sofort", "enseguida"],
+    ["der Sitzplatz", "el asiento"],
+    ["die Reihe", "la fila"]
+  ],
+  "quiz_grammar": [
+    ["mach den Koffer", "haz la maleta"],
+    ["ich kenne Marta", "conozco a Marta"],
+    ["ich liebe die Spezialeffekte", "me encantan los efectos especiales"]
+  ],
+  "outro": [
+    "Das war Folge vier von Español A1 en el coche. Jeden Sonntagabend kommen zwei neue Folgen mit den Geschichten aus deinen Mails der Woche.",
+    "Bis zum nächsten Mal, und fahr sicher."
+  ]
+}
