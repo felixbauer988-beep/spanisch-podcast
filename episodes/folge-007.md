@@ -1,0 +1,177 @@
+# Folge 7: Wochenplan, Tortilla und der Weg zum Café
+
+Länge: ca. 23:26 Minuten
+
+**Kapitel**
+
+- 00:00 Einführung
+- 00:37 Aufwärmen
+- 01:41 Geschichte 1: Mi semana, mi plan
+- 08:10 Geschichte 2: La tortilla de mi abuela
+- 14:32 Geschichte 3: ¿Cómo llego al café?
+- 21:01 Quiz
+- 23:13 Abschluss
+
+---
+
+## Einführung
+
+Hallo Felix und willkommen zu Español A1 en el coche, deinem Spanisch-Podcast für unterwegs. Das ist Folge sieben.
+
+Heute hörst du drei kleine, abgeschlossene Geschichten aus deinen Lern-Mails: einen Wochenplan, eine spanische Tortilla nach Omas Rezept und den Weg zu einem neuen Café.
+
+Jede Geschichte läuft nach dem gleichen Muster. Zuerst hörst du sie einmal komplett auf Spanisch, langsam und mit Pausen. Dann folgt sie Satz für Satz, direkt mit deutscher Übersetzung. Danach kommen die wichtigsten neuen Wörter, und zum Schluss ein kleiner Grammatik-Tipp.
+
+Du musst nichts mitschreiben. Hör einfach zu und sprich laut mit, wenn du magst. Und jetzt: gute Fahrt!
+
+
+## Aufwärmen: Wörter aus früheren Mails
+
+- **la oferta** – das Angebot
+- **el descuento** – der Rabatt
+- **la llave** – der Schlüssel
+- **las vistas** – die Aussicht
+- **el chiste** – der Witz
+- **apetecer** – Lust haben auf
+
+## Geschichte 1: Mi semana, mi plan – Meine Woche, mein Plan
+*Jemand plant am Sonntag die ganze Woche: Arbeit, Unterricht, Freunde und Haushalt.*
+
+
+**Satz für Satz**
+
+🇪🇸 Todos los domingos por la tarde preparo mi plan de la semana en una agenda. Antes de escribir, miro el calendario. Así no olvido nada importante.  
+🇩🇪 *Jeden Sonntagnachmittag mache ich meinen Wochenplan in einem Terminkalender. Bevor ich schreibe, schaue ich auf den Kalender. So vergesse ich nichts Wichtiges.*
+
+🇪🇸 Esta semana, el lunes tengo una reunión con mi jefa. Normalmente los lunes voy al gimnasio antes de trabajar, pero esta vez no hay tiempo. Después de la reunión, hablamos del proyecto nuevo.  
+🇩🇪 *Diese Woche habe ich am Montag eine Besprechung mit meiner Chefin. Normalerweise gehe ich montags vor der Arbeit ins Fitnessstudio, aber diesmal ist keine Zeit. Nach der Besprechung sprechen wir über das neue Projekt.*
+
+🇪🇸 El martes y el jueves tengo clase de inglés. Antes de ir a clase, repaso las palabras nuevas en el autobús. Los miércoles trabajo en casa.  
+🇩🇪 *Am Dienstag und am Donnerstag habe ich Englischunterricht. Bevor ich zum Unterricht gehe, wiederhole ich im Bus die neuen Wörter. Mittwochs arbeite ich zu Hause.*
+
+🇪🇸 El viernes por la noche quedo con mi amiga Lucía. Vamos a un restaurante pequeño. Después de cenar, damos un paseo por el río.  
+🇩🇪 *Am Freitagabend treffe ich mich mit meiner Freundin Lucía. Wir gehen in ein kleines Restaurant. Nach dem Abendessen machen wir einen Spaziergang am Fluss.*
+
+🇪🇸 Los sábados hago la compra y limpio el piso antes de comer. Por la tarde veo una película en el sofá.  
+🇩🇪 *Samstags erledige ich den Einkauf und putze die Wohnung, bevor ich zu Mittag esse. Nachmittags sehe ich auf dem Sofa einen Film.*
+
+🇪🇸 El domingo es mi día favorito. No pongo el despertador, y después de desayunar leo el periódico. Una semana con plan es una semana más tranquila.  
+🇩🇪 *Der Sonntag ist mein Lieblingstag. Ich stelle keinen Wecker, und nach dem Frühstück lese ich die Zeitung. Eine Woche mit Plan ist eine ruhigere Woche.*
+
+
+**Neue Wörter**
+
+- **la agenda** – der Terminkalender
+- **el calendario** – der Kalender
+- **la reunión** – die Besprechung
+- **el proyecto** – das Projekt
+- **repasar** – wiederholen
+- **la compra** – der Einkauf
+- **limpiar** – putzen
+- **el despertador** – der Wecker
+
+💡 Kleiner Grammatik-Tipp: Für am Montag sagst du nur el lunes, ohne en. Am Montag habe ich eine Besprechung: *El lunes tengo una reunión.* Mit los wird es regelmäßig: montags, also jeden Montag: *Los lunes voy al gimnasio.* Nach antes de und después de steht einfach der Infinitiv. Bevor ich schreibe: *Antes de escribir.* Nach dem Abendessen machen wir einen Spaziergang: *Después de cenar, damos un paseo.*
+
+
+## Geschichte 2: La tortilla de mi abuela – Die Tortilla meiner Großmutter
+*Jemand kocht zum ersten Mal eine spanische Tortilla, mit dem Rezept der Großmutter am Telefon.*
+
+
+**Satz für Satz**
+
+🇪🇸 Este domingo invito a mis amigos a cenar. Quiero preparar una tortilla española. En mi familia se dice que la receta de mi abuela es la mejor.  
+🇩🇪 *Diesen Sonntag lade ich meine Freunde zum Abendessen ein. Ich möchte eine spanische Tortilla zubereiten. In meiner Familie sagt man, dass das Rezept meiner Großmutter das beste ist.*
+
+🇪🇸 El sábado voy al supermercado. Se necesitan seis huevos, patatas, una cebolla grande y aceite de oliva. En la tienda se venden patatas de todos los tamaños.  
+🇩🇪 *Am Samstag gehe ich in den Supermarkt. Man braucht sechs Eier, Kartoffeln, eine große Zwiebel und Olivenöl. Im Laden verkauft man Kartoffeln in allen Größen.*
+
+🇪🇸 Por la mañana llamo a mi abuela. Ella me explica: primero se pelan las patatas y se cortan en trozos finos. Después se fríen con la cebolla.  
+🇩🇪 *Am Morgen rufe ich meine Großmutter an. Sie erklärt mir: Zuerst schält man die Kartoffeln und schneidet sie in dünne Stücke. Danach brät man sie mit der Zwiebel.*
+
+🇪🇸 Luego se baten los huevos con un poco de sal. Cuando la sartén está caliente, se pone todo dentro. Después se da la vuelta a la tortilla con un plato.  
+🇩🇪 *Dann schlägt man die Eier mit etwas Salz auf. Wenn die Pfanne heiß ist, gibt man alles hinein. Danach wendet man die Tortilla mit einem Teller.*
+
+🇪🇸 Es lo más difícil. La primera tortilla no sale bien, pero la segunda está perfecta. Mi abuela dice: se aprende practicando.  
+🇩🇪 *Das ist das Schwierigste. Die erste Tortilla gelingt nicht, aber die zweite ist perfekt. Meine Großmutter sagt: Man lernt durch Üben.*
+
+🇪🇸 Por la noche llegan mis amigos con hambre. Se come y se habla mucho, y la tortilla desaparece en cinco minutos. Mañana tengo que dar las gracias a mi abuela.  
+🇩🇪 *Am Abend kommen meine Freunde hungrig an. Man isst und redet viel, und die Tortilla verschwindet in fünf Minuten. Morgen muss ich mich bei meiner Großmutter bedanken.*
+
+
+**Neue Wörter**
+
+- **la receta** – das Rezept
+- **el huevo** – das Ei
+- **la cebolla** – die Zwiebel
+- **pelar** – schälen
+- **cortar** – schneiden
+- **freír** – braten
+- **la sartén** – die Pfanne
+- **batir** – verquirlen
+
+💡 Kleiner Grammatik-Tipp: Für man sagst du se mit dem Verb in der dritten Person. In Spanien isst man spät: *En España se come tarde.* Das Verb richtet sich nach dem Gegenstand. Ein Ding, Singular. Man braucht eine Pfanne: *Se necesita una sartén.* Mehrere Dinge, Plural. Man braucht sechs Eier: *Se necesitan seis huevos.* Und hier spricht man Spanisch: *Aquí se habla español.*
+
+
+## Geschichte 3: ¿Cómo llego al café? – Wie komme ich zum Café?
+*Auf dem Weg zu einem neuen Café ist der Handy-Akku leer, also wird zweimal nach dem Weg gefragt.*
+
+
+**Satz für Satz**
+
+🇪🇸 Hoy quedo con mi amiga Elena en un café nuevo, pero no conozco bien esa parte de la ciudad. Al lado de la salida de la estación hay una señora. Le pregunto: perdone, ¿cómo llego al Café Luna?  
+🇩🇪 *Heute treffe ich mich mit meiner Freundin Elena in einem neuen Café, aber ich kenne diesen Teil der Stadt nicht gut. Neben dem Ausgang des Bahnhofs steht eine Frau. Ich frage sie: Entschuldigen Sie, wie komme ich zum Café Luna?*
+
+🇪🇸 Es muy fácil, me contesta. Siga todo recto hasta el semáforo y después gire a la derecha. El café está enfrente de una farmacia, cerca de la plaza.  
+🇩🇪 *Das ist ganz einfach, antwortet sie mir. Gehen Sie geradeaus bis zur Ampel und biegen Sie dann rechts ab. Das Café liegt gegenüber einer Apotheke, in der Nähe des Platzes.*
+
+🇪🇸 Camino hasta el semáforo, pero allí hay dos calles. Una está a la izquierda y la otra a la derecha. Detrás de un quiosco veo a un chico y le pregunto otra vez.  
+🇩🇪 *Ich gehe bis zur Ampel, aber dort gibt es zwei Straßen. Die eine ist links und die andere rechts. Hinter einem Kiosk sehe ich einen Jungen und frage noch einmal.*
+
+🇪🇸 Esa calle es la correcta, dice él. La entrada está entre la farmacia y una panadería. Si ves una puerta azul delante del edificio, ya has llegado.  
+🇩🇪 *Diese Straße ist die richtige, sagt er. Der Eingang liegt zwischen der Apotheke und einer Bäckerei. Wenn du eine blaue Tür vor dem Gebäude siehst, bist du angekommen.*
+
+🇪🇸 Encuentro la puerta azul y entro. Elena está sentada al fondo, debajo de una lámpara roja. ¿Por qué llegas tarde?, me pregunta.  
+🇩🇪 *Ich finde die blaue Tür und gehe hinein. Elena sitzt hinten, unter einer roten Lampe. Warum kommst du zu spät?, fragt sie mich.*
+
+🇪🇸 Porque me he perdido, respondo. Pero ahora estoy aquí. Pedimos dos cafés y nos reímos mucho.  
+🇩🇪 *Weil ich mich verlaufen habe, antworte ich. Aber jetzt bin ich hier. Wir bestellen zwei Kaffee und lachen viel.*
+
+
+**Neue Wörter**
+
+- **la salida** – der Ausgang
+- **el semáforo** – die Ampel
+- **la farmacia** – die Apotheke
+- **la plaza** – der Platz
+- **el quiosco** – der Kiosk
+- **la panadería** – die Bäckerei
+- **girar** – abbiegen
+- **perderse** – sich verlaufen
+
+💡 Kleiner Grammatik-Tipp: Fast alle Ortswörter enden auf de. Neben, gegenüber, in der Nähe: *al lado de, enfrente de, cerca de.* Aus de und el wird del. Vor dem Gebäude: *Delante del edificio.* Nur zwischen braucht kein de. Zwischen der Apotheke und der Bäckerei: *Entre la farmacia y la panadería.* Und für den Weg: Gehen Sie geradeaus und biegen Sie rechts ab: *Siga todo recto y gire a la derecha.*
+
+
+## Quiz
+
+- der Terminkalender → **la agenda**
+- die Besprechung → **la reunión**
+- wiederholen → **repasar**
+- der Wecker → **el despertador**
+- das Rezept → **la receta**
+- das Ei → **el huevo**
+- die Zwiebel → **la cebolla**
+- die Pfanne → **la sartén**
+- die Ampel → **el semáforo**
+- die Apotheke → **la farmacia**
+- die Bäckerei → **la panadería**
+- sich verlaufen → **perderse**
+- montags gehe ich ins Fitnessstudio → **los lunes voy al gimnasio**
+- man braucht sechs Eier → **se necesitan seis huevos**
+- das Café liegt gegenüber der Apotheke → **el café está enfrente de la farmacia**
+
+## Abschluss
+
+Das war Folge sieben von Español A1 en el coche. Jeden Sonntagabend kommen zwei neue Folgen mit den Geschichten aus deinen Mails der Woche.
+
+Bis zum nächsten Mal, und fahr sicher.
+

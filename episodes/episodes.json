@@ -193,5 +193,83 @@
         "Abschluss"
       ]
     ]
+  },
+  {
+    "number": 6,
+    "title": "Folge 6: Sevilla, Sport und Urlaubspläne",
+    "description": "Drei Geschichten aus den Lern-Mails: ein erster Tag in Sevilla, ein Samstagmorgen beim Laufen im Park und die Planung einer Reise nach Lissabon. Grammatik: Superlativ und Ordinalzahlen, Häufigkeitsadverbien und Adverbien auf -mente sowie ein erster Blick auf das Futuro simple.",
+    "date": "2026-11-01",
+    "file": "episodes/folge-006.mp3",
+    "bytes": 11386433,
+    "duration": 1423,
+    "chapters": [
+      [
+        0,
+        "Einführung"
+      ],
+      [
+        39,
+        "Aufwärmen"
+      ],
+      [
+        104,
+        "Geschichte 1: Mi ciudad favorita"
+      ],
+      [
+        497,
+        "Geschichte 2: Hábitos y deporte"
+      ],
+      [
+        893,
+        "Geschichte 3: Planes de vacaciones"
+      ],
+      [
+        1281,
+        "Quiz"
+      ],
+      [
+        1410,
+        "Abschluss"
+      ]
+    ]
+  },
+  {
+    "number": 7,
+    "title": "Folge 7: Wochenplan, Tortilla und der Weg zum Café",
+    "description": "Drei Geschichten aus den Lern-Mails: ein Wochenplan von Montag bis Sonntag, eine Tortilla nach dem Rezept der Großmutter und die Suche nach einem neuen Café. Grammatik: Wochentage mit el und los, antes de und después de mit Infinitiv, das unpersönliche se sowie Ortspräpositionen und Wegbeschreibungen.",
+    "date": "2026-11-01",
+    "file": "episodes/folge-007.mp3",
+    "bytes": 11253532,
+    "duration": 1407,
+    "chapters": [
+      [
+        0,
+        "Einführung"
+      ],
+      [
+        38,
+        "Aufwärmen"
+      ],
+      [
+        102,
+        "Geschichte 1: Mi semana, mi plan"
+      ],
+      [
+        491,
+        "Geschichte 2: La tortilla de mi abuela"
+      ],
+      [
+        872,
+        "Geschichte 3: ¿Cómo llego al café?"
+      ],
+      [
+        1261,
+        "Quiz"
+      ],
+      [
+        1393,
+        "Abschluss"
+      ]
+    ]
   }
 ]

@@ -1,0 +1,405 @@
+{
+  "number": 6,
+  "title": "Folge 6: Sevilla, Sport und Urlaubspläne",
+  "description": "Drei Geschichten aus den Lern-Mails: ein erster Tag in Sevilla, ein Samstagmorgen beim Laufen im Park und die Planung einer Reise nach Lissabon. Grammatik: Superlativ und Ordinalzahlen, Häufigkeitsadverbien und Adverbien auf -mente sowie ein erster Blick auf das Futuro simple.",
+  "date": "2026-11-01",
+  "intro": [
+    "Hallo Felix und willkommen zu Español A1 en el coche, deinem Spanisch-Podcast für unterwegs. Das ist Folge sechs.",
+    "Heute hörst du drei kleine, abgeschlossene Geschichten aus deinen Lern-Mails: einen Stadtrundgang durch Sevilla, einen Morgen beim Laufen im Park und die Vorbereitung auf eine Reise nach Lissabon.",
+    "Jede Geschichte läuft nach dem gleichen Muster. Zuerst hörst du sie einmal komplett auf Spanisch, langsam und mit Pausen. Dann folgt sie Satz für Satz, direkt mit deutscher Übersetzung. Danach kommen die wichtigsten neuen Wörter, und zum Schluss ein kleiner Grammatik-Tipp.",
+    "Du musst nichts mitschreiben. Hör einfach zu und sprich laut mit, wenn du magst. Und jetzt: gute Fahrt!"
+  ],
+  "warmup": [
+    [
+      "el retraso",
+      "die Verspätung"
+    ],
+    [
+      "el andén",
+      "der Bahnsteig"
+    ],
+    [
+      "la amistad",
+      "die Freundschaft"
+    ],
+    [
+      "el postre",
+      "der Nachtisch"
+    ],
+    [
+      "la pronunciación",
+      "die Aussprache"
+    ],
+    [
+      "el currículum",
+      "der Lebenslauf"
+    ]
+  ],
+  "stories": [
+    {
+      "title_es": "Mi ciudad favorita",
+      "title_de": "Meine Lieblingsstadt",
+      "setting": "Ein Freund kommt zum ersten Mal nach Sevilla und bekommt die schönsten Orte der Stadt gezeigt.",
+      "blocks": [
+        [
+          "Mi ciudad favorita es Sevilla. Para mí es la ciudad más bonita de España. Hoy mi amigo Tomás llega de Alemania, y es su primera visita.",
+          "Meine Lieblingsstadt ist Sevilla. Für mich ist sie die schönste Stadt Spaniens. Heute kommt mein Freund Tomás aus Deutschland, und es ist sein erster Besuch."
+        ],
+        [
+          "Empezamos en el centro. La catedral es el edificio más grande de la ciudad, y la Giralda es la torre más alta. No hay escaleras, así que subimos por una rampa muy larga.",
+          "Wir beginnen im Zentrum. Die Kathedrale ist das größte Gebäude der Stadt, und die Giralda ist der höchste Turm. Es gibt keine Treppen, also gehen wir eine sehr lange Rampe hinauf."
+        ],
+        [
+          "Luego caminamos por el barrio de Santa Cruz. Las calles son muy estrechas. La calle del Agua es la más estrecha de todas.",
+          "Dann laufen wir durch das Viertel Santa Cruz. Die Straßen sind sehr eng. Die Calle del Agua ist die engste von allen."
+        ],
+        [
+          "En la segunda plaza hay un bar pequeño. Es el bar más antiguo del barrio y tiene las mejores tapas. Comemos en el tercer piso, con vistas a los tejados.",
+          "Auf dem zweiten Platz gibt es eine kleine Bar. Sie ist die älteste Bar des Viertels und hat die besten Tapas. Wir essen im dritten Stock, mit Blick auf die Dächer."
+        ],
+        [
+          "Pedimos gambas y una tortilla. Tomás dice: es la tortilla más rica que he comido. Pagamos veinte euros, un precio muy bueno.",
+          "Wir bestellen Garnelen und eine Tortilla. Tomás sagt: Das ist die leckerste Tortilla, die ich je gegessen habe. Wir zahlen zwanzig Euro, ein sehr guter Preis."
+        ],
+        [
+          "Por la tarde paseamos junto al río. Tomás dice: Sevilla es la mejor ciudad del mundo. Y yo contesto: es solo el primer día.",
+          "Am Nachmittag spazieren wir am Fluss entlang. Tomás sagt: Sevilla ist die beste Stadt der Welt. Und ich antworte: Es ist erst der erste Tag."
+        ]
+      ],
+      "vocab": [
+        [
+          "el barrio",
+          "das Viertel"
+        ],
+        [
+          "la catedral",
+          "die Kathedrale"
+        ],
+        [
+          "la torre",
+          "der Turm"
+        ],
+        [
+          "la rampa",
+          "die Rampe"
+        ],
+        [
+          "la escalera",
+          "die Treppe"
+        ],
+        [
+          "estrecho",
+          "eng, schmal"
+        ],
+        [
+          "antiguo",
+          "alt"
+        ],
+        [
+          "el tejado",
+          "das Dach"
+        ]
+      ],
+      "tip": [
+        [
+          "de",
+          "Kleiner Grammatik-Tipp: Den Superlativ bildest du mit Artikel, más und Adjektiv. Danach steht de, nicht en. Die schönste Stadt Spaniens:"
+        ],
+        [
+          "es",
+          "La ciudad más bonita de España."
+        ],
+        [
+          "de",
+          "Gut und schlecht sind unregelmäßig. Der beste Freund, die besten Tapas:"
+        ],
+        [
+          "es",
+          "El mejor amigo. Las mejores tapas."
+        ],
+        [
+          "de",
+          "Bei den Ordinalzahlen verlieren primero und tercero vor einem männlichen Nomen das o. Der erste Tag, der dritte Stock:"
+        ],
+        [
+          "es",
+          "El primer día. El tercer piso."
+        ],
+        [
+          "de",
+          "Aber weiblich bleibt alles normal. Der zweite Platz, der erste Besuch:"
+        ],
+        [
+          "es",
+          "La segunda plaza. La primera visita."
+        ]
+      ]
+    },
+    {
+      "title_es": "Hábitos y deporte",
+      "title_de": "Gewohnheiten und Sport",
+      "setting": "Lucía geht am Samstagmorgen mit ihrem Freund Pablo im Park laufen.",
+      "blocks": [
+        [
+          "Me llamo Lucía y el deporte es muy importante para mí. Normalmente me levanto a las siete. Siempre bebo un vaso de agua antes de salir.",
+          "Ich heiße Lucía, und Sport ist sehr wichtig für mich. Normalerweise stehe ich um sieben Uhr auf. Ich trinke immer ein Glas Wasser, bevor ich hinausgehe."
+        ],
+        [
+          "Hoy corro por el parque con mi amigo Pablo. Él casi nunca llega a tiempo, pero hoy ya está esperando en la puerta. Normalmente corre con música, pero hoy no tiene los auriculares.",
+          "Heute laufe ich mit meinem Freund Pablo durch den Park. Er kommt fast nie pünktlich, aber heute wartet er schon an der Tür. Normalerweise läuft er mit Musik, aber heute hat er die Kopfhörer nicht dabei."
+        ],
+        [
+          "Empezamos lentamente, porque hay mucha gente. Después de diez minutos corremos rápidamente. Pablo respira con dificultad, y descansamos un poco en un banco.",
+          "Wir fangen langsam an, weil viele Leute da sind. Nach zehn Minuten laufen wir schnell. Pablo atmet schwer, und wir ruhen uns ein bisschen auf einer Bank aus."
+        ],
+        [
+          "¿Entrenas todos los días?, me pregunta Pablo. No, entreno tres veces por semana. A veces nado en la piscina, y los domingos juego al tenis.",
+          "Trainierst du jeden Tag?, fragt mich Pablo. Nein, ich trainiere dreimal pro Woche. Manchmal schwimme ich im Schwimmbad, und sonntags spiele ich Tennis."
+        ],
+        [
+          "Yo nunca hago deporte, dice Pablo, pero quiero empezar. Perfecto, le contesto. Pero tienes que levantarte temprano y comer fruta a menudo.",
+          "Ich mache nie Sport, sagt Pablo, aber ich will anfangen. Perfekt, antworte ich ihm. Aber du musst früh aufstehen und oft Obst essen."
+        ],
+        [
+          "Finalmente volvemos a casa. Pablo está cansado, pero sonríe felizmente. Él promete: siempre llego a tiempo. Bueno, casi siempre.",
+          "Schließlich gehen wir nach Hause. Pablo ist müde, aber er lächelt glücklich. Er verspricht: Ich komme immer pünktlich. Na ja, fast immer."
+        ]
+      ],
+      "vocab": [
+        [
+          "respirar",
+          "atmen"
+        ],
+        [
+          "descansar",
+          "sich ausruhen"
+        ],
+        [
+          "entrenar",
+          "trainieren"
+        ],
+        [
+          "nadar",
+          "schwimmen"
+        ],
+        [
+          "la piscina",
+          "das Schwimmbad"
+        ],
+        [
+          "el banco",
+          "die Bank zum Sitzen"
+        ],
+        [
+          "temprano",
+          "früh"
+        ],
+        [
+          "prometer",
+          "versprechen"
+        ]
+      ],
+      "tip": [
+        [
+          "de",
+          "Kleiner Grammatik-Tipp: Wörter für wie oft stehen meist direkt vor dem Verb. Immer, manchmal, nie:"
+        ],
+        [
+          "es",
+          "Siempre bebo agua. A veces nado. Nunca hago deporte."
+        ],
+        [
+          "de",
+          "Fast nie heißt casi nunca. Er kommt fast nie pünktlich:"
+        ],
+        [
+          "es",
+          "Casi nunca llega a tiempo."
+        ],
+        [
+          "de",
+          "Adverbien auf mente bildest du aus der weiblichen Form des Adjektivs. Aus rápido wird rápida, dann rápidamente:"
+        ],
+        [
+          "es",
+          "rápidamente, lentamente, tranquilamente."
+        ],
+        [
+          "de",
+          "Endet das Adjektiv nicht auf o, bleibt es gleich. Glücklich:"
+        ],
+        [
+          "es",
+          "felizmente."
+        ]
+      ]
+    },
+    {
+      "title_es": "Planes de vacaciones",
+      "title_de": "Urlaubspläne",
+      "setting": "Marta und ihr Bruder Tomás planen eine Woche Urlaub in Lissabon.",
+      "blocks": [
+        [
+          "Me llamo Marta y hoy preparo las vacaciones con mi hermano Tomás. El sábado viajaremos a Lisboa en avión. Pasaremos allí una semana.",
+          "Ich heiße Marta und bereite heute mit meinem Bruder Tomás den Urlaub vor. Am Samstag werden wir mit dem Flugzeug nach Lissabon reisen. Wir werden dort eine Woche verbringen."
+        ],
+        [
+          "¿Qué haremos el primer día?, pregunto. Dejaremos las maletas en el hotel y daremos un paseo por el centro, contesta Tomás. Por la noche cenaremos cerca del río.",
+          "Was werden wir am ersten Tag machen?, frage ich. Wir werden die Koffer im Hotel lassen und einen Spaziergang durch das Zentrum machen, antwortet Tomás. Abends werden wir in der Nähe des Flusses essen."
+        ],
+        [
+          "El segundo día visitaremos un museo y subiremos al castillo. Tomás piensa que hará sol. Pero yo creo que lloverá un poco.",
+          "Am zweiten Tag werden wir ein Museum besichtigen und zur Burg hinaufsteigen. Tomás denkt, dass die Sonne scheinen wird. Aber ich glaube, dass es ein bisschen regnen wird."
+        ],
+        [
+          "Por eso meteré un paraguas y una chaqueta en la maleta. El sábado saldremos de casa muy temprano. Tranquilo, llegaré a tiempo, le digo.",
+          "Deshalb werde ich einen Regenschirm und eine Jacke in den Koffer packen. Am Samstag werden wir sehr früh von zu Hause losfahren. Keine Sorge, ich werde pünktlich sein, sage ich ihm."
+        ],
+        [
+          "Esta noche escribo una lista: pasaporte, cámara, dinero y un libro. Mi madre me ayuda con la maleta. El vuelo dura solo tres horas, y dentro de tres días estaré en Portugal.",
+          "Heute Abend schreibe ich eine Liste: Reisepass, Kamera, Geld und ein Buch. Meine Mutter hilft mir mit dem Koffer. Der Flug dauert nur drei Stunden, und in drei Tagen werde ich in Portugal sein."
+        ],
+        [
+          "Mi hermano me da un abrazo y dice: será un viaje perfecto. Y yo le prometo: te mandaré una postal.",
+          "Mein Bruder umarmt mich und sagt: Es wird eine perfekte Reise. Und ich verspreche ihm: Ich werde dir eine Postkarte schicken."
+        ]
+      ],
+      "vocab": [
+        [
+          "la maleta",
+          "der Koffer"
+        ],
+        [
+          "el avión",
+          "das Flugzeug"
+        ],
+        [
+          "el castillo",
+          "die Burg"
+        ],
+        [
+          "el paseo",
+          "der Spaziergang"
+        ],
+        [
+          "el paraguas",
+          "der Regenschirm"
+        ],
+        [
+          "meter",
+          "hineinpacken"
+        ],
+        [
+          "el pasaporte",
+          "der Reisepass"
+        ],
+        [
+          "la postal",
+          "die Postkarte"
+        ]
+      ],
+      "tip": [
+        [
+          "de",
+          "Kleiner Grammatik-Tipp: Das Futuro simple heißt werden. Du hängst die Endung einfach an den ganzen Infinitiv. Ich werde reisen, wir werden reisen:"
+        ],
+        [
+          "es",
+          "Viajaré. Viajaremos."
+        ],
+        [
+          "de",
+          "Du wirst essen, sie werden leben:"
+        ],
+        [
+          "es",
+          "Comerás. Vivirán."
+        ],
+        [
+          "de",
+          "Ein paar Verben haben einen kurzen Stamm. Aus hacer wird har, aus salir wird saldr, aus tener wird tendr. Es wird sonnig, wir werden losfahren, ich werde Zeit haben:"
+        ],
+        [
+          "es",
+          "Hará sol. Saldremos. Tendré tiempo."
+        ],
+        [
+          "de",
+          "Im Alltag sagt man oft auch ir a mit Infinitiv. Ich werde reisen:"
+        ],
+        [
+          "es",
+          "Voy a viajar."
+        ]
+      ]
+    }
+  ],
+  "quiz": [
+    [
+      "der Turm",
+      "la torre"
+    ],
+    [
+      "die Treppe",
+      "la escalera"
+    ],
+    [
+      "eng",
+      "estrecho"
+    ],
+    [
+      "das Dach",
+      "el tejado"
+    ],
+    [
+      "atmen",
+      "respirar"
+    ],
+    [
+      "schwimmen",
+      "nadar"
+    ],
+    [
+      "das Schwimmbad",
+      "la piscina"
+    ],
+    [
+      "früh",
+      "temprano"
+    ],
+    [
+      "der Koffer",
+      "la maleta"
+    ],
+    [
+      "die Burg",
+      "el castillo"
+    ],
+    [
+      "der Regenschirm",
+      "el paraguas"
+    ],
+    [
+      "die Postkarte",
+      "la postal"
+    ]
+  ],
+  "quiz_grammar": [
+    [
+      "die schönste Stadt Spaniens",
+      "la ciudad más bonita de España"
+    ],
+    [
+      "ich stehe immer früh auf",
+      "siempre me levanto temprano"
+    ],
+    [
+      "am Samstag werden wir reisen",
+      "el sábado viajaremos"
+    ]
+  ],
+  "outro": [
+    "Das war Folge sechs von Español A1 en el coche. Jeden Sonntagabend kommen zwei neue Folgen mit den Geschichten aus deinen Mails der Woche.",
+    "Bis zum nächsten Mal, und fahr sicher."
+  ]
+}

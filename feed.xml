@@ -6,7 +6,7 @@
     <atom:link href="https://felixbauer988-beep.github.io/spanisch-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Spanisch hören im Auto, Niveau A1: In jeder Folge drei kurze Alltagsgeschichten, langsam gesprochen, Satz für Satz mit deutscher Übersetzung, dazu die wichtigsten neuen Wörter, ein Grammatik-Tipp und ein kleines Vokabelquiz.</description>
     <language>de</language>
-    <lastBuildDate>Sun, 25 Oct 2026 17:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 17:58:10 +0000</lastBuildDate>
     <itunes:author>Español A1 en el coche</itunes:author>
     <itunes:summary>Spanisch hören im Auto, Niveau A1: In jeder Folge drei kurze Alltagsgeschichten, langsam gesprochen, Satz für Satz mit deutscher Übersetzung, dazu die wichtigsten neuen Wörter, ein Grammatik-Tipp und ein kleines Vokabelquiz.</itunes:summary>
     <itunes:owner>
@@ -20,6 +20,66 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Folge 7: Wochenplan, Tortilla und der Weg zum Café</title>
+      <description>Drei Geschichten aus den Lern-Mails: ein Wochenplan von Montag bis Sonntag, eine Tortilla nach dem Rezept der Großmutter und die Suche nach einem neuen Café. Grammatik: Wochentage mit el und los, antes de und después de mit Infinitiv, das unpersönliche se sowie Ortspräpositionen und Wegbeschreibungen.
+
+Kapitel:
+00:00 Einführung
+00:38 Aufwärmen
+01:42 Geschichte 1: Mi semana, mi plan
+08:11 Geschichte 2: La tortilla de mi abuela
+14:32 Geschichte 3: ¿Cómo llego al café?
+21:01 Quiz
+23:13 Abschluss</description>
+      <itunes:summary>Drei Geschichten aus den Lern-Mails: ein Wochenplan von Montag bis Sonntag, eine Tortilla nach dem Rezept der Großmutter und die Suche nach einem neuen Café. Grammatik: Wochentage mit el und los, antes de und después de mit Infinitiv, das unpersönliche se sowie Ortspräpositionen und Wegbeschreibungen.
+
+Kapitel:
+00:00 Einführung
+00:38 Aufwärmen
+01:42 Geschichte 1: Mi semana, mi plan
+08:11 Geschichte 2: La tortilla de mi abuela
+14:32 Geschichte 3: ¿Cómo llego al café?
+21:01 Quiz
+23:13 Abschluss</itunes:summary>
+      <pubDate>Sun, 01 Nov 2026 18:07:00 +0100</pubDate>
+      <enclosure url="https://felixbauer988-beep.github.io/spanisch-podcast/episodes/folge-007.mp3" length="11253532" type="audio/mpeg"/>
+      <guid isPermaLink="false">spanisch-podcast-folge-007</guid>
+      <itunes:duration>00:23:27</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Folge 6: Sevilla, Sport und Urlaubspläne</title>
+      <description>Drei Geschichten aus den Lern-Mails: ein erster Tag in Sevilla, ein Samstagmorgen beim Laufen im Park und die Planung einer Reise nach Lissabon. Grammatik: Superlativ und Ordinalzahlen, Häufigkeitsadverbien und Adverbien auf -mente sowie ein erster Blick auf das Futuro simple.
+
+Kapitel:
+00:00 Einführung
+00:39 Aufwärmen
+01:44 Geschichte 1: Mi ciudad favorita
+08:17 Geschichte 2: Hábitos y deporte
+14:53 Geschichte 3: Planes de vacaciones
+21:21 Quiz
+23:30 Abschluss</description>
+      <itunes:summary>Drei Geschichten aus den Lern-Mails: ein erster Tag in Sevilla, ein Samstagmorgen beim Laufen im Park und die Planung einer Reise nach Lissabon. Grammatik: Superlativ und Ordinalzahlen, Häufigkeitsadverbien und Adverbien auf -mente sowie ein erster Blick auf das Futuro simple.
+
+Kapitel:
+00:00 Einführung
+00:39 Aufwärmen
+01:44 Geschichte 1: Mi ciudad favorita
+08:17 Geschichte 2: Hábitos y deporte
+14:53 Geschichte 3: Planes de vacaciones
+21:21 Quiz
+23:30 Abschluss</itunes:summary>
+      <pubDate>Sun, 01 Nov 2026 18:06:00 +0100</pubDate>
+      <enclosure url="https://felixbauer988-beep.github.io/spanisch-podcast/episodes/folge-006.mp3" length="11386433" type="audio/mpeg"/>
+      <guid isPermaLink="false">spanisch-podcast-folge-006</guid>
+      <itunes:duration>00:23:43</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Folge 5: Ein Abend zu Hause, ein Vorstellungsgespräch und der Supermarkt</title>
       <description>Drei Geschichten aus den Lern-Mails: eine Familie am frühen Abend, ein Vorstellungsgespräch in einer Buchhandlung und der große Wocheneinkauf im Supermarkt. Grammatik: estar + Gerundium, die Zeitwörter desde, hasta, durante und hace sowie Mengenangaben mit de und Zahlen über hundert.
