@@ -271,5 +271,83 @@
         "Abschluss"
       ]
     ]
+  },
+  {
+    "number": 8,
+    "title": "Folge 8: Umzug, Bibliothek und Friseur",
+    "description": "Drei Geschichten aus den Lern-Mails: ein Umzug in eine größere Wohnung, ein ruhiger Samstag in der Bibliothek und ein neuer Haarschnitt beim Friseur. Grammatik: Konnektoren (porque, por eso, así que, primero, luego), Indefinita (algo, alguien, algún, otro, cada) und Verbalperiphrasen (acabar de, empezar a, volver a, seguir + Gerundium).",
+    "date": "2026-11-08",
+    "file": "episodes/folge-008.mp3",
+    "bytes": 11446616,
+    "duration": 1431,
+    "chapters": [
+      [
+        0,
+        "Einführung"
+      ],
+      [
+        39,
+        "Aufwärmen"
+      ],
+      [
+        103,
+        "Geschichte 1: La mudanza"
+      ],
+      [
+        516,
+        "Geschichte 2: En la biblioteca"
+      ],
+      [
+        907,
+        "Geschichte 3: En la peluquería"
+      ],
+      [
+        1285,
+        "Quiz"
+      ],
+      [
+        1418,
+        "Abschluss"
+      ]
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Folge 9: Ein Geschenk, Besuch der Eltern und das Fundbüro",
+    "description": "Drei Geschichten aus den Lern-Mails: die Suche nach einem Geburtstagsgeschenk für die Mutter, ein Putztag vor dem Besuch der Eltern und eine verlorene Geldbörse im Fundbüro. Grammatik: Gleichheitsvergleich (tan … como, tanto … como), ya, todavía no und ya no mit dem Perfekt sowie höfliche Bitten und Wünsche (quisiera, me gustaría, ¿podría …?).",
+    "date": "2026-11-08",
+    "file": "episodes/folge-009.mp3",
+    "bytes": 11416961,
+    "duration": 1427,
+    "chapters": [
+      [
+        0,
+        "Einführung"
+      ],
+      [
+        38,
+        "Aufwärmen"
+      ],
+      [
+        103,
+        "Geschichte 1: Un regalo para mi madre"
+      ],
+      [
+        488,
+        "Geschichte 2: Antes de la visita"
+      ],
+      [
+        869,
+        "Geschichte 3: Objetos perdidos"
+      ],
+      [
+        1282,
+        "Quiz"
+      ],
+      [
+        1414,
+        "Abschluss"
+      ]
+    ]
   }
 ]

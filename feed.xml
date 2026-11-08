@@ -6,7 +6,7 @@
     <atom:link href="https://felixbauer988-beep.github.io/spanisch-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Spanisch hören im Auto, Niveau A1: In jeder Folge drei kurze Alltagsgeschichten, langsam gesprochen, Satz für Satz mit deutscher Übersetzung, dazu die wichtigsten neuen Wörter, ein Grammatik-Tipp und ein kleines Vokabelquiz.</description>
     <language>de</language>
-    <lastBuildDate>Sun, 01 Nov 2026 17:58:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 17:56:25 +0000</lastBuildDate>
     <itunes:author>Español A1 en el coche</itunes:author>
     <itunes:summary>Spanisch hören im Auto, Niveau A1: In jeder Folge drei kurze Alltagsgeschichten, langsam gesprochen, Satz für Satz mit deutscher Übersetzung, dazu die wichtigsten neuen Wörter, ein Grammatik-Tipp und ein kleines Vokabelquiz.</itunes:summary>
     <itunes:owner>
@@ -20,6 +20,66 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Folge 9: Ein Geschenk, Besuch der Eltern und das Fundbüro</title>
+      <description>Drei Geschichten aus den Lern-Mails: die Suche nach einem Geburtstagsgeschenk für die Mutter, ein Putztag vor dem Besuch der Eltern und eine verlorene Geldbörse im Fundbüro. Grammatik: Gleichheitsvergleich (tan … como, tanto … como), ya, todavía no und ya no mit dem Perfekt sowie höfliche Bitten und Wünsche (quisiera, me gustaría, ¿podría …?).
+
+Kapitel:
+00:00 Einführung
+00:38 Aufwärmen
+01:43 Geschichte 1: Un regalo para mi madre
+08:08 Geschichte 2: Antes de la visita
+14:29 Geschichte 3: Objetos perdidos
+21:22 Quiz
+23:34 Abschluss</description>
+      <itunes:summary>Drei Geschichten aus den Lern-Mails: die Suche nach einem Geburtstagsgeschenk für die Mutter, ein Putztag vor dem Besuch der Eltern und eine verlorene Geldbörse im Fundbüro. Grammatik: Gleichheitsvergleich (tan … como, tanto … como), ya, todavía no und ya no mit dem Perfekt sowie höfliche Bitten und Wünsche (quisiera, me gustaría, ¿podría …?).
+
+Kapitel:
+00:00 Einführung
+00:38 Aufwärmen
+01:43 Geschichte 1: Un regalo para mi madre
+08:08 Geschichte 2: Antes de la visita
+14:29 Geschichte 3: Objetos perdidos
+21:22 Quiz
+23:34 Abschluss</itunes:summary>
+      <pubDate>Sun, 08 Nov 2026 18:09:00 +0100</pubDate>
+      <enclosure url="https://felixbauer988-beep.github.io/spanisch-podcast/episodes/folge-009.mp3" length="11416961" type="audio/mpeg"/>
+      <guid isPermaLink="false">spanisch-podcast-folge-009</guid>
+      <itunes:duration>00:23:47</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Folge 8: Umzug, Bibliothek und Friseur</title>
+      <description>Drei Geschichten aus den Lern-Mails: ein Umzug in eine größere Wohnung, ein ruhiger Samstag in der Bibliothek und ein neuer Haarschnitt beim Friseur. Grammatik: Konnektoren (porque, por eso, así que, primero, luego), Indefinita (algo, alguien, algún, otro, cada) und Verbalperiphrasen (acabar de, empezar a, volver a, seguir + Gerundium).
+
+Kapitel:
+00:00 Einführung
+00:39 Aufwärmen
+01:43 Geschichte 1: La mudanza
+08:36 Geschichte 2: En la biblioteca
+15:07 Geschichte 3: En la peluquería
+21:25 Quiz
+23:38 Abschluss</description>
+      <itunes:summary>Drei Geschichten aus den Lern-Mails: ein Umzug in eine größere Wohnung, ein ruhiger Samstag in der Bibliothek und ein neuer Haarschnitt beim Friseur. Grammatik: Konnektoren (porque, por eso, así que, primero, luego), Indefinita (algo, alguien, algún, otro, cada) und Verbalperiphrasen (acabar de, empezar a, volver a, seguir + Gerundium).
+
+Kapitel:
+00:00 Einführung
+00:39 Aufwärmen
+01:43 Geschichte 1: La mudanza
+08:36 Geschichte 2: En la biblioteca
+15:07 Geschichte 3: En la peluquería
+21:25 Quiz
+23:38 Abschluss</itunes:summary>
+      <pubDate>Sun, 08 Nov 2026 18:08:00 +0100</pubDate>
+      <enclosure url="https://felixbauer988-beep.github.io/spanisch-podcast/episodes/folge-008.mp3" length="11446616" type="audio/mpeg"/>
+      <guid isPermaLink="false">spanisch-podcast-folge-008</guid>
+      <itunes:duration>00:23:51</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Folge 7: Wochenplan, Tortilla und der Weg zum Café</title>
       <description>Drei Geschichten aus den Lern-Mails: ein Wochenplan von Montag bis Sonntag, eine Tortilla nach dem Rezept der Großmutter und die Suche nach einem neuen Café. Grammatik: Wochentage mit el und los, antes de und después de mit Infinitiv, das unpersönliche se sowie Ortspräpositionen und Wegbeschreibungen.

@@ -1,0 +1,405 @@
+{
+  "number": 9,
+  "title": "Folge 9: Ein Geschenk, Besuch der Eltern und das Fundbüro",
+  "description": "Drei Geschichten aus den Lern-Mails: die Suche nach einem Geburtstagsgeschenk für die Mutter, ein Putztag vor dem Besuch der Eltern und eine verlorene Geldbörse im Fundbüro. Grammatik: Gleichheitsvergleich (tan … como, tanto … como), ya, todavía no und ya no mit dem Perfekt sowie höfliche Bitten und Wünsche (quisiera, me gustaría, ¿podría …?).",
+  "date": "2026-11-08",
+  "intro": [
+    "Hallo Felix und willkommen zu Español A1 en el coche, deinem Spanisch-Podcast für unterwegs. Das ist Folge neun.",
+    "Heute hörst du drei kleine, abgeschlossene Geschichten aus deinen Lern-Mails: ein Geburtstagsgeschenk für die Mutter, einen Putztag vor dem Besuch der Eltern und eine verlorene Geldbörse.",
+    "Jede Geschichte läuft nach dem gleichen Muster. Zuerst hörst du sie einmal komplett auf Spanisch, langsam und mit Pausen. Dann folgt sie Satz für Satz, direkt mit deutscher Übersetzung. Danach kommen die wichtigsten neuen Wörter, und zum Schluss ein kleiner Grammatik-Tipp.",
+    "Du musst nichts mitschreiben. Hör einfach zu und sprich laut mit, wenn du magst. Und jetzt: gute Fahrt!"
+  ],
+  "warmup": [
+    [
+      "el horario",
+      "der Fahrplan"
+    ],
+    [
+      "el contrato",
+      "der Vertrag"
+    ],
+    [
+      "aplaudir",
+      "applaudieren"
+    ],
+    [
+      "el periódico",
+      "die Zeitung"
+    ],
+    [
+      "la sartén",
+      "die Pfanne"
+    ],
+    [
+      "el aceite",
+      "das Öl"
+    ]
+  ],
+  "stories": [
+    {
+      "title_es": "Un regalo para mi madre",
+      "title_de": "Ein Geschenk für meine Mutter",
+      "setting": "Mit einer Freundin in der Stadt auf der Suche nach einem Geburtstagsgeschenk für die Mutter.",
+      "blocks": [
+        [
+          "El sábado es el cumpleaños de mi madre y todavía no tengo regalo. Por la mañana voy al centro con mi amiga Lucía. Busco algo bonito y útil.",
+          "Am Samstag hat meine Mutter Geburtstag, und ich habe noch kein Geschenk. Am Vormittag fahre ich mit meiner Freundin Lucía ins Zentrum. Ich suche etwas Schönes und Nützliches."
+        ],
+        [
+          "En el escaparate de una tienda vemos dos bolsos. El bolso rojo es tan bonito como el negro. Los dos son de piel y tienen tantos bolsillos como una mochila.",
+          "Im Schaufenster eines Geschäfts sehen wir zwei Handtaschen. Die rote Tasche ist so schön wie die schwarze. Beide sind aus Leder und haben so viele Fächer wie ein Rucksack."
+        ],
+        [
+          "Lucía prefiere el negro. Es tan elegante como un bolso de marca, me explica. Y no pesa tanto como el rojo.",
+          "Lucía bevorzugt die schwarze. Sie ist so elegant wie eine Markentasche, erklärt sie mir. Und sie wiegt nicht so viel wie die rote."
+        ],
+        [
+          "Yo dudo mucho, porque a mi madre le encanta el color rojo. En la tienda también hay tantos pañuelos como bolsos. Pero un pañuelo no es tan especial como un bolso.",
+          "Ich zögere sehr, denn meine Mutter liebt die Farbe Rot. Im Geschäft gibt es auch genauso viele Tücher wie Taschen. Aber ein Tuch ist nicht so besonders wie eine Tasche."
+        ],
+        [
+          "Al final elijo el rojo. La dependienta lo mete en una bolsa de papel y le pone un lazo dorado. Tu madre va a estar muy contenta, dice.",
+          "Am Ende wähle ich die rote. Die Verkäuferin steckt sie in eine Papiertüte und macht eine goldene Schleife daran. Deine Mutter wird sich sehr freuen, sagt sie."
+        ],
+        [
+          "Lucía sonríe: el rojo es igual de bonito en persona que en el escaparate. Salimos de la tienda y estoy muy contento.",
+          "Lucía lächelt: Die rote ist in echt genauso schön wie im Schaufenster. Wir verlassen das Geschäft, und ich bin sehr zufrieden."
+        ]
+      ],
+      "vocab": [
+        [
+          "el regalo",
+          "das Geschenk"
+        ],
+        [
+          "el cumpleaños",
+          "der Geburtstag"
+        ],
+        [
+          "el escaparate",
+          "das Schaufenster"
+        ],
+        [
+          "el bolso",
+          "die Handtasche"
+        ],
+        [
+          "el bolsillo",
+          "die Tasche an der Kleidung, das Fach"
+        ],
+        [
+          "la piel",
+          "das Leder"
+        ],
+        [
+          "la dependienta",
+          "die Verkäuferin"
+        ],
+        [
+          "el lazo",
+          "die Schleife"
+        ]
+      ],
+      "tip": [
+        [
+          "de",
+          "Kleiner Grammatik-Tipp: So wie heißt auf Spanisch tan und como. Tan steht vor einem Adjektiv und bleibt immer gleich. Die rote ist so schön wie die schwarze:"
+        ],
+        [
+          "es",
+          "El rojo es tan bonito como el negro."
+        ],
+        [
+          "de",
+          "Vor einem Nomen heißt es tanto, und das passt sich an. So viele Tücher wie Taschen:"
+        ],
+        [
+          "es",
+          "Tantos pañuelos como bolsos."
+        ],
+        [
+          "de",
+          "Direkt nach einem Verb bleibt es tanto como. Sie wiegt nicht so viel wie die rote:"
+        ],
+        [
+          "es",
+          "No pesa tanto como el rojo."
+        ],
+        [
+          "de",
+          "Und Vorsicht: Beim Vergleich mit más steht que, bei tan steht immer como:"
+        ],
+        [
+          "es",
+          "Más grande que, tan grande como."
+        ]
+      ]
+    },
+    {
+      "title_es": "Antes de la visita",
+      "title_de": "Vor dem Besuch",
+      "setting": "Die Eltern kommen morgen zu Besuch, und die Wohnung muss noch fertig werden.",
+      "blocks": [
+        [
+          "Mis padres llegan mañana y mi piso todavía está desordenado. Tengo una lista de tareas en la nevera. Ya he comprado el pan y la fruta, pero todavía no he limpiado el baño.",
+          "Meine Eltern kommen morgen, und meine Wohnung ist noch unordentlich. Ich habe eine Aufgabenliste am Kühlschrank. Das Brot und das Obst habe ich schon gekauft, aber das Bad habe ich noch nicht geputzt."
+        ],
+        [
+          "Primero preparo la cama de invitados. Ya he puesto las sábanas limpias. Todavía no he colgado las toallas, y no tengo una almohada para mi padre.",
+          "Zuerst bereite ich das Gästebett vor. Die sauberen Laken habe ich schon aufgezogen. Die Handtücher habe ich noch nicht aufgehängt, und ich habe kein Kopfkissen für meinen Vater."
+        ],
+        [
+          "Mi vecina Carmen llega con una almohada y unas flores. ¿Ya has barrido el suelo?, me pregunta. Todavía no, contesto, pero ya tengo la escoba en la mano.",
+          "Meine Nachbarin Carmen kommt mit einem Kopfkissen und ein paar Blumen. Hast du den Boden schon gefegt?, fragt sie mich. Noch nicht, antworte ich, aber den Besen habe ich schon in der Hand."
+        ],
+        [
+          "Por la tarde limpio el baño y paso la aspiradora. Todavía hay platos sucios en el fregadero. Pero ya no hay polvo en la estantería.",
+          "Am Nachmittag putze ich das Bad und sauge Staub. Im Spülbecken steht noch schmutziges Geschirr. Aber im Regal ist kein Staub mehr."
+        ],
+        [
+          "A las ocho ya he terminado casi todo. Todavía no he cocinado, pero mi madre siempre dice: lo más importante es estar juntos.",
+          "Um acht Uhr habe ich schon fast alles erledigt. Gekocht habe ich noch nicht, aber meine Mutter sagt immer: Das Wichtigste ist, zusammen zu sein."
+        ],
+        [
+          "Me siento en el sofá con un té. Mi piso huele a flores y ya no estoy nervioso. ¡Mañana va a ser un día muy bonito!",
+          "Ich setze mich mit einem Tee aufs Sofa. Meine Wohnung riecht nach Blumen, und ich bin nicht mehr nervös. Morgen wird ein sehr schöner Tag!"
+        ]
+      ],
+      "vocab": [
+        [
+          "la tarea",
+          "die Aufgabe"
+        ],
+        [
+          "la sábana",
+          "das Laken"
+        ],
+        [
+          "la almohada",
+          "das Kopfkissen"
+        ],
+        [
+          "la toalla",
+          "das Handtuch"
+        ],
+        [
+          "barrer",
+          "fegen"
+        ],
+        [
+          "la escoba",
+          "der Besen"
+        ],
+        [
+          "la aspiradora",
+          "der Staubsauger"
+        ],
+        [
+          "el fregadero",
+          "das Spülbecken"
+        ]
+      ],
+      "tip": [
+        [
+          "de",
+          "Kleiner Grammatik-Tipp: Ya mit dem Perfekt heißt schon. Ich habe das Brot schon gekauft:"
+        ],
+        [
+          "es",
+          "Ya he comprado el pan."
+        ],
+        [
+          "de",
+          "Todavía no heißt noch nicht. Ich habe das Bad noch nicht geputzt:"
+        ],
+        [
+          "es",
+          "Todavía no he limpiado el baño."
+        ],
+        [
+          "de",
+          "Todavía allein heißt noch immer. Es gibt noch schmutziges Geschirr:"
+        ],
+        [
+          "es",
+          "Todavía hay platos sucios."
+        ],
+        [
+          "de",
+          "Und ya no heißt nicht mehr. Ich bin nicht mehr nervös:"
+        ],
+        [
+          "es",
+          "Ya no estoy nervioso."
+        ]
+      ]
+    },
+    {
+      "title_es": "Objetos perdidos",
+      "title_de": "Das Fundbüro",
+      "setting": "Nach einer Zugfahrt ist die Geldbörse weg, also geht es zum Fundbüro am Bahnhof.",
+      "blocks": [
+        [
+          "El sábado vuelvo de la playa en tren. En casa no encuentro mi cartera. ¡Qué desastre! Dentro llevo el dinero y el carné de identidad. ¿Dónde la he perdido?",
+          "Am Samstag komme ich mit dem Zug vom Strand zurück. Zu Hause finde ich meine Geldbörse nicht. Was für ein Desaster! Darin habe ich das Geld und den Personalausweis. Wo habe ich sie verloren?"
+        ],
+        [
+          "Vuelvo a la estación y busco la oficina de objetos perdidos. Detrás del mostrador hay una empleada muy simpática. Buenos días, quisiera preguntar por una cartera marrón. ¿Podría ayudarme, por favor?",
+          "Ich gehe zurück zum Bahnhof und suche das Fundbüro. Hinter dem Schalter steht eine sehr freundliche Angestellte. Guten Morgen, ich möchte nach einer braunen Geldbörse fragen. Könnten Sie mir bitte helfen?"
+        ],
+        [
+          "La empleada mira en el ordenador. Lo siento, hoy no tenemos ninguna cartera marrón. ¿Me puede dar su número de teléfono? Me gustaría avisarle si aparece.",
+          "Die Angestellte schaut im Computer nach. Es tut mir leid, heute haben wir keine braune Geldbörse. Können Sie mir Ihre Telefonnummer geben? Ich würde Sie gern benachrichtigen, wenn sie auftaucht."
+        ],
+        [
+          "Compro un café en el bar de la estación. Diez minutos después suena mi móvil. Es la empleada: un joven ha encontrado una cartera debajo de un asiento del tren.",
+          "Ich kaufe einen Kaffee in der Bar am Bahnhof. Zehn Minuten später klingelt mein Handy. Es ist die Angestellte: Ein junger Mann hat unter einem Sitz im Zug eine Geldbörse gefunden."
+        ],
+        [
+          "Corro a la oficina. ¡Sí, es mi cartera, y todo está dentro! ¿Podría darme el nombre del joven? Quisiera darle las gracias.",
+          "Ich renne zum Büro. Ja, das ist meine Geldbörse, und alles ist drin! Könnten Sie mir den Namen des jungen Mannes geben? Ich möchte ihm danken."
+        ],
+        [
+          "Ya se ha ido, dice la empleada, pero ha dejado una nota: de nada, un saludo. Me río y vuelvo a casa muy contento.",
+          "Er ist schon gegangen, sagt die Angestellte, aber er hat einen Zettel dagelassen: Gern geschehen, viele Grüße. Ich lache und gehe sehr zufrieden nach Hause."
+        ]
+      ],
+      "vocab": [
+        [
+          "la cartera",
+          "die Geldbörse"
+        ],
+        [
+          "perder",
+          "verlieren"
+        ],
+        [
+          "encontrar",
+          "finden"
+        ],
+        [
+          "el carné de identidad",
+          "der Personalausweis"
+        ],
+        [
+          "la empleada",
+          "die Angestellte"
+        ],
+        [
+          "avisar",
+          "benachrichtigen"
+        ],
+        [
+          "aparecer",
+          "auftauchen"
+        ],
+        [
+          "el asiento",
+          "der Sitz"
+        ]
+      ],
+      "tip": [
+        [
+          "de",
+          "Kleiner Grammatik-Tipp: Für einen höflichen Wunsch sagst du quisiera oder me gustaría, und danach kommt der Infinitiv. Ich möchte nach einer Geldbörse fragen:"
+        ],
+        [
+          "es",
+          "Quisiera preguntar por una cartera."
+        ],
+        [
+          "de",
+          "Für eine höfliche Bitte an Fremde sagst du podría. Könnten Sie mir helfen?"
+        ],
+        [
+          "es",
+          "¿Podría ayudarme?"
+        ],
+        [
+          "de",
+          "Oder einfacher: me puede. Können Sie mir Ihre Nummer geben?"
+        ],
+        [
+          "es",
+          "¿Me puede dar su número?"
+        ],
+        [
+          "de",
+          "Mit Freunden sagst du podrías. Könntest du das Fenster öffnen?"
+        ],
+        [
+          "es",
+          "¿Podrías abrir la ventana?"
+        ]
+      ]
+    }
+  ],
+  "quiz": [
+    [
+      "das Geschenk",
+      "el regalo"
+    ],
+    [
+      "das Schaufenster",
+      "el escaparate"
+    ],
+    [
+      "die Handtasche",
+      "el bolso"
+    ],
+    [
+      "die Schleife",
+      "el lazo"
+    ],
+    [
+      "das Kopfkissen",
+      "la almohada"
+    ],
+    [
+      "das Handtuch",
+      "la toalla"
+    ],
+    [
+      "der Besen",
+      "la escoba"
+    ],
+    [
+      "der Staubsauger",
+      "la aspiradora"
+    ],
+    [
+      "die Geldbörse",
+      "la cartera"
+    ],
+    [
+      "finden",
+      "encontrar"
+    ],
+    [
+      "der Sitz",
+      "el asiento"
+    ],
+    [
+      "benachrichtigen",
+      "avisar"
+    ]
+  ],
+  "quiz_grammar": [
+    [
+      "die rote Tasche ist so schön wie die schwarze",
+      "el bolso rojo es tan bonito como el negro"
+    ],
+    [
+      "ich habe das Bad noch nicht geputzt",
+      "todavía no he limpiado el baño"
+    ],
+    [
+      "könnten Sie mir helfen?",
+      "¿podría ayudarme?"
+    ]
+  ],
+  "outro": [
+    "Das war Folge neun von Español A1 en el coche. Jeden Sonntagabend kommen zwei neue Folgen mit den Geschichten aus deinen Mails der Woche.",
+    "Bis zum nächsten Mal, und fahr sicher."
+  ]
+}
