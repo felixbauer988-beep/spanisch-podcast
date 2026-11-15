@@ -6,7 +6,7 @@
     <atom:link href="https://felixbauer988-beep.github.io/spanisch-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Spanisch hören im Auto, Niveau A1: In jeder Folge drei kurze Alltagsgeschichten, langsam gesprochen, Satz für Satz mit deutscher Übersetzung, dazu die wichtigsten neuen Wörter, ein Grammatik-Tipp und ein kleines Vokabelquiz.</description>
     <language>de</language>
-    <lastBuildDate>Sun, 08 Nov 2026 17:56:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 17:57:27 +0000</lastBuildDate>
     <itunes:author>Español A1 en el coche</itunes:author>
     <itunes:summary>Spanisch hören im Auto, Niveau A1: In jeder Folge drei kurze Alltagsgeschichten, langsam gesprochen, Satz für Satz mit deutscher Übersetzung, dazu die wichtigsten neuen Wörter, ein Grammatik-Tipp und ein kleines Vokabelquiz.</itunes:summary>
     <itunes:owner>
@@ -20,6 +20,66 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Folge 11: Am Strand, Schilder in der Stadt und ein Regentag</title>
+      <description>Drei Geschichten aus den Lern-Mails: ein Tag am Strand mit der Schwester, ein Ausflug in eine kleine Stadt voller Schilder und ein verregneter Samstag zu Hause. Grammatik: Mengenadverbien (demasiado, bastante, poco, un poco, suficiente), das unpersönliche se (se habla, se venden, se puede) sowie Zeitsätze mit cuando, mientras und cada vez que.
+
+Kapitel:
+00:00 Einführung
+00:38 Aufwärmen
+01:43 Geschichte 1: Un día en la playa
+08:12 Geschichte 2: Carteles y avisos
+14:43 Geschichte 3: Una tarde de lluvia
+21:17 Quiz
+23:26 Abschluss</description>
+      <itunes:summary>Drei Geschichten aus den Lern-Mails: ein Tag am Strand mit der Schwester, ein Ausflug in eine kleine Stadt voller Schilder und ein verregneter Samstag zu Hause. Grammatik: Mengenadverbien (demasiado, bastante, poco, un poco, suficiente), das unpersönliche se (se habla, se venden, se puede) sowie Zeitsätze mit cuando, mientras und cada vez que.
+
+Kapitel:
+00:00 Einführung
+00:38 Aufwärmen
+01:43 Geschichte 1: Un día en la playa
+08:12 Geschichte 2: Carteles y avisos
+14:43 Geschichte 3: Una tarde de lluvia
+21:17 Quiz
+23:26 Abschluss</itunes:summary>
+      <pubDate>Sun, 15 Nov 2026 18:11:00 +0100</pubDate>
+      <enclosure url="https://felixbauer988-beep.github.io/spanisch-podcast/episodes/folge-011.mp3" length="11354269" type="audio/mpeg"/>
+      <guid isPermaLink="false">spanisch-podcast-folge-011</guid>
+      <itunes:duration>00:23:39</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Folge 10: Neue Nachbarn, Fotografie und ein kaputtes Fahrrad</title>
+      <description>Drei Geschichten aus den Lern-Mails: eine neue Nachbarin und ein Abendessen im Hof, die Fotografie als neues Hobby und ein Sonntag in der Fahrradwerkstatt. Grammatik: Pronomen nach Präpositionen (para mí, conmigo, contigo), Verben mit festen Präpositionen (aprender a, pensar en, soñar con) sowie estar + Partizip als Zustand.
+
+Kapitel:
+00:00 Einführung
+00:39 Aufwärmen
+01:42 Geschichte 1: Mis vecinos
+08:04 Geschichte 2: Mi nuevo hobby
+14:36 Geschichte 3: Mi bicicleta rota
+21:01 Quiz
+23:09 Abschluss</description>
+      <itunes:summary>Drei Geschichten aus den Lern-Mails: eine neue Nachbarin und ein Abendessen im Hof, die Fotografie als neues Hobby und ein Sonntag in der Fahrradwerkstatt. Grammatik: Pronomen nach Präpositionen (para mí, conmigo, contigo), Verben mit festen Präpositionen (aprender a, pensar en, soñar con) sowie estar + Partizip als Zustand.
+
+Kapitel:
+00:00 Einführung
+00:39 Aufwärmen
+01:42 Geschichte 1: Mis vecinos
+08:04 Geschichte 2: Mi nuevo hobby
+14:36 Geschichte 3: Mi bicicleta rota
+21:01 Quiz
+23:09 Abschluss</itunes:summary>
+      <pubDate>Sun, 15 Nov 2026 18:10:00 +0100</pubDate>
+      <enclosure url="https://felixbauer988-beep.github.io/spanisch-podcast/episodes/folge-010.mp3" length="11215925" type="audio/mpeg"/>
+      <guid isPermaLink="false">spanisch-podcast-folge-010</guid>
+      <itunes:duration>00:23:22</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Folge 9: Ein Geschenk, Besuch der Eltern und das Fundbüro</title>
       <description>Drei Geschichten aus den Lern-Mails: die Suche nach einem Geburtstagsgeschenk für die Mutter, ein Putztag vor dem Besuch der Eltern und eine verlorene Geldbörse im Fundbüro. Grammatik: Gleichheitsvergleich (tan … como, tanto … como), ya, todavía no und ya no mit dem Perfekt sowie höfliche Bitten und Wünsche (quisiera, me gustaría, ¿podría …?).

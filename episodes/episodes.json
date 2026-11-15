@@ -349,5 +349,83 @@
         "Abschluss"
       ]
     ]
+  },
+  {
+    "number": 10,
+    "title": "Folge 10: Neue Nachbarn, Fotografie und ein kaputtes Fahrrad",
+    "description": "Drei Geschichten aus den Lern-Mails: eine neue Nachbarin und ein Abendessen im Hof, die Fotografie als neues Hobby und ein Sonntag in der Fahrradwerkstatt. Grammatik: Pronomen nach Präpositionen (para mí, conmigo, contigo), Verben mit festen Präpositionen (aprender a, pensar en, soñar con) sowie estar + Partizip als Zustand.",
+    "date": "2026-11-15",
+    "file": "episodes/folge-010.mp3",
+    "bytes": 11215925,
+    "duration": 1402,
+    "chapters": [
+      [
+        0,
+        "Einführung"
+      ],
+      [
+        39,
+        "Aufwärmen"
+      ],
+      [
+        102,
+        "Geschichte 1: Mis vecinos"
+      ],
+      [
+        484,
+        "Geschichte 2: Mi nuevo hobby"
+      ],
+      [
+        876,
+        "Geschichte 3: Mi bicicleta rota"
+      ],
+      [
+        1261,
+        "Quiz"
+      ],
+      [
+        1389,
+        "Abschluss"
+      ]
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Folge 11: Am Strand, Schilder in der Stadt und ein Regentag",
+    "description": "Drei Geschichten aus den Lern-Mails: ein Tag am Strand mit der Schwester, ein Ausflug in eine kleine Stadt voller Schilder und ein verregneter Samstag zu Hause. Grammatik: Mengenadverbien (demasiado, bastante, poco, un poco, suficiente), das unpersönliche se (se habla, se venden, se puede) sowie Zeitsätze mit cuando, mientras und cada vez que.",
+    "date": "2026-11-15",
+    "file": "episodes/folge-011.mp3",
+    "bytes": 11354269,
+    "duration": 1419,
+    "chapters": [
+      [
+        0,
+        "Einführung"
+      ],
+      [
+        38,
+        "Aufwärmen"
+      ],
+      [
+        103,
+        "Geschichte 1: Un día en la playa"
+      ],
+      [
+        492,
+        "Geschichte 2: Carteles y avisos"
+      ],
+      [
+        883,
+        "Geschichte 3: Una tarde de lluvia"
+      ],
+      [
+        1277,
+        "Quiz"
+      ],
+      [
+        1406,
+        "Abschluss"
+      ]
+    ]
   }
 ]
